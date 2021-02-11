@@ -17,9 +17,11 @@ defmodule Practice do
   end
 
   def factor(x) do
-    # Maybe delegate this too.
-    [1,2,x]
+    Practice.Factor.factor(x)
   end
 
+  def palindrome?(x) do
+    Practice.Palindrome.palindrome?(x)
+  end
   # TODO: Add a palindrome? function.
 end
