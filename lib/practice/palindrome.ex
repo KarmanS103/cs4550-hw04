@@ -8,11 +8,6 @@ defmodule Practice.Palindrome do
     end
 
     def palindrome?(x) do
-        value = Integer.parse(x)
-        IO.puts(value)
-        case value do
-            {:error, _} -> IO.puts("error thrown")
-            _ -> x == reverse(x)
-        end 
+        x == reverse(x)
     end
 end

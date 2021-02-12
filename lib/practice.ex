@@ -23,5 +23,5 @@ defmodule Practice do
   def palindrome?(x) do
     Practice.Palindrome.palindrome?(x)
   end
-  # TODO: Add a palindrome? function.
+
 end
