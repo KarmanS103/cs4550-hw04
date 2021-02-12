@@ -4,7 +4,7 @@ Description=HW04 Elixir Practice
 [Service]
 Type=simple
 User=mathpage
-Group=mathpage
+Group=www-data
 Restart=on-failure
 Environment=MIX_ENV=prod
 Environment=PORT=4790
