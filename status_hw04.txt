@@ -1,0 +1,36 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Karman Singh
+
+2. What hostname did you deploy your app to?
+hw04.disguisedpanda.com
+
+3. What's the URL of your git for this assignment?
+https://github.com/KarmanS103/cs4550-hw04
+
+4. How much of the functionality did you complete?
+Just about all of it I think.
+
+5. Did you successfully deploy? If not, what's broken?
+I've got the service and nginx files all set up; however, the deploy script is having issues installing one
+of the dependencies with mix deps.get.
+
+6. How comfortable do you feel with Elixir now?
+Fairly comfortable.....still not a huge fan of it though. 
+
+7. Which parts of this assignment did you have trouble with, if any?
+Deployment was definitley the most troublesome, some more direction would've been helpful.  
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
